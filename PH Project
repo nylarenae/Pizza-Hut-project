@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<body></body>
+<h2><h2>
+<div class="container">
+<label for="studentName"> Pizza Hut
+</label>
+</div>
+<div class="container">
+<label for="studentEmail">  </label>
+  <input type="email" </input>
+<button type="button"> HI </button>
+ <button type="button"> Order here </button>
+{text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
